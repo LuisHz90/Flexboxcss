@@ -1,3 +1,17 @@
 body {
     background-color: #d4dfa2;
 }
+.futbol {
+    background-color: #d4dfa2;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000000;
+}
+.futbol h1 {
+    font-size: 30px;
+    color: #000000;
+}
